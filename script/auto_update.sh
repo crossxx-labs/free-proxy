@@ -9,7 +9,7 @@ echo $project_root
 cd $project_root
 
 outfile=README.md
-lastUpdateDateTime=$(date)
+lastUpdateDateTime=$(date '+%F %T')
 nextUpdateDateTime=$(date -d '+6 hour' '+%F %T')
 #nextUpdateDateTime=$(date -d '+1 min' '+%F %T')
 echo Last updated at $lastUpdateDateTime, next update schedule at $nextUpdateDateTime  >>  $outfile
