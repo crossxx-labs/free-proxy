@@ -10,9 +10,10 @@ cd $project_root
 
 outfile=README.md
 lastUpdateDateTime=$(date)
-#nextUpdateDateTime=$(date -d '+2 hour' '+%F %T')
-nextUpdateDateTime=$(date -d '+1 min' '+%F %T')
+nextUpdateDateTime=$(date -d '+6 hour' '+%F %T')
+#nextUpdateDateTime=$(date -d '+1 min' '+%F %T')
 echo Last updated at $lastUpdateDateTime, next update schedule at $nextUpdateDateTime  >>  $outfile
+echo "" >> $outfile
 git add $outfile
 git commit -m "update at $lastUpdateDateTime"
 git push 
