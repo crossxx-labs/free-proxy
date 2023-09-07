@@ -12,3 +12,5 @@ Provide free ssr / trojan / vmess proxy servers
 
 Last updated at Thu Sep 7 22:10:01 CST 2023, next update schedule at 2023-09-08 04:10:01
 
+Last updated at Thu Sep 7 22:11:01 CST 2023, next update schedule at 2023-09-08 04:11:01
+
