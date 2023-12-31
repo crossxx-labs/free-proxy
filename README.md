@@ -8,5 +8,5 @@ Provide free ssr / trojan / vmess proxy servers
 - [ ] add free trojan proxy server
 - [ ] add free vmess proxy server
 
-Last updated at 2023-12-31 12:00:01 UTC+8, next update schedule at 2023-12-31 18:00:01 UTC+8
+Last updated at 2023-12-31 18:00:01 UTC+8, next update schedule at 2024-01-01 00:00:01 UTC+8
 
