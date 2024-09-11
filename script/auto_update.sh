@@ -8,6 +8,7 @@ echo $project_root
 
 cd $project_root
 
+git pull
 cp -f tpl/readme.md.tpl  README.md
 outfile=README.md
 lastUpdateDateTime=$(date '+%F %T')
