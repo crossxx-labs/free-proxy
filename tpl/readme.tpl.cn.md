@@ -8,6 +8,8 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 ### 如何使用
 
+> 下载安装客户端，复制并填入订阅链接，选择`规则`模式，点击`设置`，开启`系统代理`，即可。
+
 1. 根据操作系统下载并安装 [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)。
    1. [Mac intel芯片 :arrow_down:](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg)
    2. [Mac M芯片 :arrow_down:](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
