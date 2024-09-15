@@ -81,4 +81,4 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 享受使用 Clash 的体验吧！
 
-Last updated at 2024-09-15 06:00:04 UTC+8, next update schedule at 2024-09-15 12:00:04 UTC+8
+Last updated at 2024-09-15 12:00:04 UTC+8, next update schedule at 2024-09-15 18:00:04 UTC+8
