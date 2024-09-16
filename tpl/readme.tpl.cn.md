@@ -26,17 +26,18 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 ### 订阅链接
 
-> 上一次更新时间：
-> 订阅过期时间：
+> 上一次更新时间：--lastUpdateDateTime--
+
+> 订阅过期时间：--nextUpdateDateTime--
 
 以下是可以使用的一些订阅链接：
 
 | 名称          | 类型         | 订阅 URL            | 过期及更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | ShadowsocksR | `https://clash.crossxx.com/ss` | 2024-09-11 12:00 |
-| V2Ray 免费    | V2Ray        | `TODO`              | 2024-09-11 12:00 |
-| Trojan 全球   | Trojan       | `TODO`              | 2024-09-11 12:00 |
-| 高级代理      | 混合         | `TODO`              | 2024-09-11 12:00 |
+| 免费 SSR      | ShadowsocksR | `https://clash.crossxx.com/sub/--timestamp--` | --yymmdd hhmm-- |
+| V2Ray 免费    | V2Ray        | `TODO`              | --yymmdd hhmm-- |
+| Trojan 全球   | Trojan       | `TODO`              | --yymmdd hhmm-- |
+| 高级代理      | 混合         | `TODO`              | --yymmdd hhmm-- |
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
 
