@@ -20,7 +20,7 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 2. 打开 Clash verge rev客户端。
 3. 进入 **Subscriptions（订阅）** 选项卡。
 4. 点击 **Create（新建）** 并粘贴订阅 URL。
-5. 点击选 **Remote**，复制下方订阅链接，设置更新时间**15**分钟，点击 **Save（保存）** 来更新代理列表。
+5. 点击选 **Remote**，复制下方订阅链接，设置更新时间**120**分钟，点击 **Save（保存）** 来更新代理列表。
 6. 点击 **Proxies（代理）** 点击确认**Rules（规则）**
 7. 在 **Settings（设置）** 中点击打开 **System Proxy（系统代理）** 即可开始安全上网！
 
@@ -34,8 +34,8 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 | 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | ShadowsocksR | `https://clash.crossxx.com/sub/--timestamp--` | --nextUpdateDateTime-- |
-| V2Ray 免费    | V2Ray        | `TODO`              | --nextUpdateDateTime-- |
+| 免费 SSR      | ShadowsocksR | `http://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
+| 免费 V2Ray    | vmess        | `http://clash.crossxx.com/sub/vmess/--timestamp--`              | --nextUpdateDateTime-- |
 | Trojan 全球   | Trojan       | `TODO`              | --nextUpdateDateTime-- |
 | 高级代理      | 混合         | `TODO`              | --nextUpdateDateTime-- |
 
