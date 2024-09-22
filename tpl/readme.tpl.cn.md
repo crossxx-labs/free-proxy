@@ -2,6 +2,25 @@
 
 本仓库提供免费Clash服务器订阅。可用于 **Clash Meta 客户端** 或其他基于 Clash Meta 内核的代理工具进行访问谷歌、推特、facebook等海外平台的网络调试。请勿用于非法用途！
 
+
+### 免费订阅链接
+
+> 上一次更新时间：--lastUpdateDateTime--
+
+> 订阅过期时间：--nextUpdateDateTime--
+
+以下是可以使用的一些订阅链接：
+
+| 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
+| ------------- | ------------ | ------------------- |----------------- |
+| 免费 SSR      | ShadowsocksR | `http://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
+| 免费 V2Ray    | vmess    | `http://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
+| Trojan 全球   | Trojan       | `TODO`              | --nextUpdateDateTime-- |
+| 高级代理      | 混合         | `TODO`              | --nextUpdateDateTime-- |
+
+> ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
+
+
 ## 开始使用
 
 Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代理类型，如 V2Ray、Shadowsocks 和 Trojan。通过这些订阅链接，可快速导入多个代理配置。
@@ -24,22 +43,6 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 6. 点击 **Proxies（代理）** 点击确认**Rules（规则）**
 7. 在 **Settings（设置）** 中点击打开 **System Proxy（系统代理）** 即可开始安全上网！
 
-### 订阅链接
-
-> 上一次更新时间：--lastUpdateDateTime--
-
-> 订阅过期时间：--nextUpdateDateTime--
-
-以下是可以使用的一些订阅链接：
-
-| 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
-| ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | ShadowsocksR | `http://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
-| 免费 V2Ray    | vmess        | `http://clash.crossxx.com/sub/vmess/--timestamp--`              | --nextUpdateDateTime-- |
-| Trojan 全球   | Trojan       | `TODO`              | --nextUpdateDateTime-- |
-| 高级代理      | 混合         | `TODO`              | --nextUpdateDateTime-- |
-
-> ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
 
 ### 免费clash订阅支持的客户端
 - Clash verge rev(win/mac/linux/ios)
