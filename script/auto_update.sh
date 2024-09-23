@@ -17,7 +17,7 @@ cp -f tpl/readme.tpl.cn.md  $outfile
 lastUpdateDateTime=$(date '+%F %T')
 lastTimeStamp=$(date +%s)
 timeNow=$(date '+%Y-%m-%d %H:%M:%S')
-nextUpdateDateTime=$(date -d '+6 hour' '+%F %T')
+nextUpdateDateTime=$(date -d '+4 hour' '+%F %T')
 #nextUpdateDateTime=$(date -d '+1 min' '+%F %T')
 sed -i "s/--timestamp--/$lastTimeStamp/g" $outfile
 
