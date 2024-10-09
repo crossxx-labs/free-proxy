@@ -27,6 +27,8 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 ### 如何使用
 
+##### 查看 [图文教程](https://dpnyems4gls27.cloudfront.net/windows.html)
+
 > 下载安装客户端，复制并填入订阅链接，选择`规则`模式，点击`设置`，开启`系统代理`，即可。
 
 1. 根据操作系统下载并安装 [Clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)。
