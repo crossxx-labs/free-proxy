@@ -13,8 +13,8 @@
 
 | 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | ShadowsocksR | `https://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
-| 免费 V2Ray    | vmess    | `https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
+| 免费 SSR      | Clash | `https://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
+| 免费 vmess    | Clash    | `https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
 | Trojan 全球   | Trojan       | `TODO`              | --nextUpdateDateTime-- |
 | 高级代理      | 混合         | `TODO`              | --nextUpdateDateTime-- |
 
