@@ -75,9 +75,10 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 - [Clash verge rev 文档](https://clash-verge-rev.github.io/faq/windows.html)
 - [Clash meta GitHub 仓库](https://github.com/MetaCubeX/mihomo)
 
-## 贡献
 
-如果您有任何问题或建议，欢迎提交 issue。
+### 免责声明
+- 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
+- 使用本程序必循遵守部署免责声明。使用本程序必循遵守部署服务器所在地、所在国家和用户所在国家的法律法规, 程序作者不对使用者任何不当行为负责。
 
 ## 许可证
 
