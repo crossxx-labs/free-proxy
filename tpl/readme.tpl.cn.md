@@ -14,11 +14,13 @@
 | 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
 | 免费 SSR      | Clash | `https://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
-| 免费 vmess    | Clash    | `https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
-| Trojan 全球   | Trojan       | `TODO`              | --nextUpdateDateTime-- |
+| 免费 vmess    | Clash | `https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
+| 免费hysteria2 | Clash | `https://clash.crossxx.com/sub/hysteria/--timestamp--`  | --nextUpdateDateTime-- |
 | 高级代理      | 混合         | `TODO`              | --nextUpdateDateTime-- |
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
+
+> ❤️推荐稳定高速老牌机场：[倚天剑clash](https://a.aiguobit.com)
 
 
 ## 开始使用
