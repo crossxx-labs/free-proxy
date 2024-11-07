@@ -22,7 +22,7 @@
 
 > ❤️推荐稳定高速老牌机场：[倚天剑clash](https://a.aiguobit.com)
 
-> ✈️ 加入免费梯子网络代理群： [Telegram交流群](https://t.me/yourusername)
+> ✈️ 加入免费梯子网络代理群： [Telegram交流群](https://t.me/+jqOB0VU0yO41MzJl)
 
 
 ## 开始使用
