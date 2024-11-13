@@ -50,6 +50,10 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 7. 在 **Settings（设置）** 中点击打开 **System Proxy（系统代理）** 即可开始安全上网！
 
 
+### FAQ
+- [Windows7启动clash-verge-rev 后显示无法找到入口，怎么解决](https://do2caruec6nwa.cloudfront.net/2024/10/30/win7-clash-verge-error-coincrementmtausage-ole32.dll/)
+- [其他clash教程问题汇总](https://do2caruec6nwa.cloudfront.net/)
+
 ### 免费clash订阅支持的客户端
 - Clash verge rev(win/mac/linux/ios)
 - Clash verge(win/mac/linux)
