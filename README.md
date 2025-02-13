@@ -5,18 +5,18 @@
 
 ### 免费订阅链接
 
-> 上一次更新时间：2025-02-13 04:00:04
+> 上一次更新时间：2025-02-13 08:00:03
 
-> 订阅过期时间：2025-02-13 08:00:04
+> 订阅过期时间：2025-02-13 12:00:03
 
 以下是可以使用的一些订阅链接：
 
 | 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | Clash | `https://clash.crossxx.com/sub/ssr/1739390404` | 2025-02-13 08:00:04 |
-| 免费 vmess    | Clash | `https://clash.crossxx.com/sub/vmess/1739390404`   | 2025-02-13 08:00:04 |
-| 免费hysteria2 | Clash | `https://clash.crossxx.com/sub/hysteria/1739390404`  | 2025-02-13 08:00:04 |
-| 高级代理      | 混合         | `TODO`              | 2025-02-13 08:00:04 |
+| 免费 SSR      | Clash | `https://clash.crossxx.com/sub/ssr/1739404803` | 2025-02-13 12:00:03 |
+| 免费 vmess    | Clash | `https://clash.crossxx.com/sub/vmess/1739404803`   | 2025-02-13 12:00:03 |
+| 免费hysteria2 | Clash | `https://clash.crossxx.com/sub/hysteria/1739404803`  | 2025-02-13 12:00:03 |
+| 高级代理      | 混合         | `TODO`              | 2025-02-13 12:00:03 |
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
 
@@ -92,4 +92,4 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 享受使用 Clash 的体验吧！
 
-Last updated at 2025-02-13 04:00:04 UTC+8, next update schedule at 2025-02-13 08:00:04 UTC+8
+Last updated at 2025-02-13 08:00:03 UTC+8, next update schedule at 2025-02-13 12:00:03 UTC+8
