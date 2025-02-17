@@ -20,9 +20,9 @@
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
 
-> ❤️推荐稳定高速老牌机场：[倚天剑clash](https://a.aiguobit.com)
+> ❤️推荐稳定高速老牌机场套餐低至0.2元/天：[倚天剑clash](https://a.aiguobit.com) 注册免费领取一天试用！
 
-> ✈️ 加入免费梯子网络代理群： [Telegram交流群](https://t.me/+jqOB0VU0yO41MzJl)
+> ✈️ 加入免费梯子网络代理交流群： [Telegram交流群](https://t.me/+jqOB0VU0yO41MzJl)
 
 
 ## 开始使用
