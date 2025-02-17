@@ -5,24 +5,24 @@
 
 ### 免费订阅链接
 
-> 上一次更新时间：2025-02-17 20:00:04
+> 上一次更新时间：2025-02-18 00:00:04
 
-> 订阅过期时间：2025-02-18 00:00:04
+> 订阅过期时间：2025-02-18 04:00:04
 
 以下是可以使用的一些订阅链接：
 
 | 名称          | 类型         | 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------- | ------------ | ------------------- |----------------- |
-| 免费 SSR      | Clash | `https://sub.crossxx.com:8443/sub/ssr/1739793604` | 2025-02-18 00:00:04 |
-| 免费 vmess    | Clash | `https://sub.crossxx.com:8443/sub/vmess/1739793604`   | 2025-02-18 00:00:04 |
-| 免费hysteria2 | Clash | `https://sub.crossxx.com:8443/sub/hysteria/1739793604`  | 2025-02-18 00:00:04 |
-| 高级代理      | 混合         | `TODO`              | 2025-02-18 00:00:04 |
+| 免费 SSR      | Clash | `https://sub.crossxx.com:8443/sub/ssr/1739808004` | 2025-02-18 04:00:04 |
+| 免费 vmess    | Clash | `https://sub.crossxx.com:8443/sub/vmess/1739808004`   | 2025-02-18 04:00:04 |
+| 免费hysteria2 | Clash | `https://sub.crossxx.com:8443/sub/hysteria/1739808004`  | 2025-02-18 04:00:04 |
+| 高级代理      | 混合         | `TODO`              | 2025-02-18 04:00:04 |
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，原订阅将无法使用。若需要继续使用，请删除老的配置，并刷新此页面获取最新配置。
 
-> ❤️推荐稳定高速老牌机场：[倚天剑clash](https://a.aiguobit.com)
+> ❤️推荐稳定高速老牌机场套餐低至0.2元/天：[倚天剑clash](https://a.aiguobit.com) 注册免费领取一天试用！
 
-> ✈️ 加入免费梯子网络代理群： [Telegram交流群](https://t.me/+jqOB0VU0yO41MzJl)
+> ✈️ 加入免费梯子网络代理交流群： [Telegram交流群](https://t.me/+jqOB0VU0yO41MzJl)
 
 
 ## 开始使用
@@ -92,4 +92,4 @@ Clash 客户端是一个 GUI 代理管理器，可用于配置和管理各种代
 
 享受使用 Clash 的体验吧！
 
-Last updated at 2025-02-17 20:00:04 UTC+8, next update schedule at 2025-02-18 00:00:04 UTC+8
+Last updated at 2025-02-18 00:00:04 UTC+8, next update schedule at 2025-02-18 04:00:04 UTC+8
