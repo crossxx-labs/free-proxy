@@ -13,9 +13,9 @@
 
  | 类型         | Clash 订阅 URL            | 过期及下次更新时间（utc+8） |
 | ------------ | ------------------- |----------------- |
-| 免费 SSR      | `https://https://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
-| 免费 VMess    | `https://https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
-| 免费 Hysteria2 | `https://https://clash.crossxx.com/sub/hysteria/--timestamp--`  | --nextUpdateDateTime-- |
+| 免费 SSR      | `https://clash.crossxx.com/sub/ssr/--timestamp--` | --nextUpdateDateTime-- |
+| 免费 VMess    | `https://clash.crossxx.com/sub/vmess/--timestamp--`   | --nextUpdateDateTime-- |
+| 免费 Hysteria2 | `https://clash.crossxx.com/sub/hysteria/--timestamp--`  | --nextUpdateDateTime-- |
 
 
 > ⚠️ **注意**: 上述订阅 **每 4 小时过期**，过期后原订阅将无法使用。由于免费使用的用户太多，本站对每位用户(按IP) **每天仅提供4小时免费额度**（从您添加订阅至clash客户端开始使用时算起），过期后若需要继续使用，请隔天（UTC+4）再刷新此页面添加新订阅，或者请看下条。感谢理解！
